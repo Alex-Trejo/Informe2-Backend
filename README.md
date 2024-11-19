@@ -15,7 +15,7 @@ Este proyecto corresponde al informe 1.2 del desarrollo de un backend para una a
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/Informe1.2-Backend.git
+   git clone https://github.com/Alex-Trejo/Informe2-Backend.git
 
 2. **Instalar XAMPP (si no lo tienes instalado)**:
 
